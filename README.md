@@ -20,10 +20,3 @@
 <pre>
  Unzip in Maya Script Path of your version.
 </pre>
-<br>
-<h2><b>License</b></h2>
-<pre>
-© 2020 COMO
-MIT license
-</pre>
-https://opensource.org/licenses/mit-license.php
